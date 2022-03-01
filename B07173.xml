@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonderfull and straunge newes, which happened in the countye of Suffolke and Essex, the first of February, beeing Fryday, where it rayned wheat, the space of vi. or vii. miles compass: a notable example to put vs in remembraunce of the iudgements of God, and a preparatiue, sent to moue vs to speedy repentance. / Written by William Auerell, student in diuinitie..</title>
+            <author>Averell, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1583</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07173</idno>
+            <idno type="STC">STC 982.5</idno>
+            <idno type="STC">ESTC S125869</idno>
+            <idno type="EEBO-CITATION">60449081</idno>
+            <idno type="OCLC">ocm 60449081</idno>
+            <idno type="VID">181179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2173:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonderfull and straunge newes, which happened in the countye of Suffolke and Essex, the first of February, beeing Fryday, where it rayned wheat, the space of vi. or vii. miles compass: a notable example to put vs in remembraunce of the iudgements of God, and a preparatiue, sent to moue vs to speedy repentance. / Written by William Auerell, student in diuinitie..</title>
+                  <author>Averell, William.</author>
+               </titleStmt>
+               <extent>[27] p.   </extent>
+               <publicationStmt>
+                  <publisher>for for Edwarde White, dwelling at the little North doore of Pauleschurch [sic], at the signe of the Gunne.,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1583..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁸ (A₁, B₈ blank?).</note>
+                  <note>Imperfect: print bleeding and show-through, with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Omens.</term>
+               <term>Weather anomalies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181179:1"/>
+            <p>A wonderfull and ſtraunge newes, which happened in the Coun<g ref="char:EOLhyphen"/>tye of <hi>Suffolke,</hi> and <hi>Eſſex,</hi> the first of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> beeing Fryday, where it rayned Wheat, the ſpace of vi. or vii. miles compas: a notable example to put vs in remembraunce of the iudgements of God, and a preparatiue, ſent to moue vs to ſpeedy repentance. Written by William Aue<g ref="char:EOLhyphen"/>rell, ſtudent in Di<g ref="char:EOLhyphen"/>uinitie.</p>
+            <q>
+               <bibl>Eccleſiaſticus. 11.</bibl>
+               <p>The workes of the Lord are wonderfull and glo<g ref="char:EOLhyphen"/>rious, ſecrete and vnknowne are his woorkes among men.</p>
+            </q>
+            <p>Jmprinted at London, for Edwarde White, dwelling at the little North doore of Paules church, at the ſigne of the Gunne. 1583.</p>
+            <pb facs="tcp:181179:2" rendition="simple:additions"/>
+            <pb facs="tcp:181179:2" rendition="simple:additions"/>
+            <pb facs="tcp:181179:3"/>
+            <pb facs="tcp:181179:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:181179:4"/>
+            <pb facs="tcp:181179:4"/>
+            <head>Straunge nevves out of Suffolke.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath ſéemed good in the eyes of our God (Chriſti<g ref="char:EOLhyphen"/>an Reader, no cauſe com<g ref="char:EOLhyphen"/>pelling but his mercie,) al<g ref="char:EOLhyphen"/>wayes to admoniſhe and warne before hande, by ſome extraordi<g ref="char:EOLhyphen"/>narie euent, of the puniſhmentes and plagues that he will ſend for ſinne, and ſo great is his loue towardes mankind, whom he hath made, that when he per<g ref="char:EOLhyphen"/>ceiueth his image to be defaced in mans ſoule, he will not yet ſtrike generally, till he haue warned vs vniuerſally, ſo that before the ſtroke of his iudgements, he alwaies ſendes the meſſengers of his mercies, which burſting out through ve<g ref="char:EOLhyphen"/>hemencie of his looue, doth put vs in mind of y<hi rend="sup">e</hi> waight of his wrath, &amp; albeit y<hi rend="sup">t</hi> y<hi rend="sup">e</hi> heartes of the wicked are hardened, ſo y<hi rend="sup">t</hi> no iudgement will make them quake, no maruailes amaze them, no wonders wine them, no myracles mooue them, nor mercyes amende them, for that they are of the nature of the ſtone, which al<g ref="char:EOLhyphen"/>beit it be wet without and ſéemeth ne<g ref="char:EOLhyphen"/>uer ſo moyſt, yet is it within nothing leſſe then harde and drie, therefore the
+<pb facs="tcp:181179:5"/> Lorde giueth them ouer to their luſtes, ſo that they are brambles of the deſert, tares of the fielde, chaffe of the Corne, and ſtubble for the fire, who whyle they heape ſinne vpon ſinne, and draw ſinne together with cart-ropes, who while they multiplie one miſchiefe on another gréeue the ſpirit of God, treade downe the bloud of his Teſtament, and drinke vp iniquitie like water, who while they eate vp the poore, oppreſſe the néedie, de<g ref="char:EOLhyphen"/>fraude the ſimple, and gnawe in ſunder the heartes of the innocent, treaſure vp vengeaunce for themſelues againſt the day of wrath, to theſe therefore are the iudgements of God ſent to make them without excuſe, but to the godly are they giuen for their better amendment, who while they beholde the woorkes of the Lorde wrought onely to this ende, that they ſhould caſt off the workes of dark<g ref="char:EOLhyphen"/>neſſe, and cloath themſelues with the louely garments of light, y<hi rend="sup">t</hi> they ſhoulde mortifie the déedes of the fleſh, and liue againe to the libertie of the ſpirit, that they ſhould put of the olde man with his concupiſcences, and put on the new man
+<pb facs="tcp:181179:5"/> Chriſt Ieſus with his vertues, their conuerſion ſhould tend to his glorie and their ſaluation to his endleſſe mercye.</p>
+            <p>
+               <hi>Philip Melancthon</hi> recordeth in his Latine Chronicle, that before the deua<g ref="char:EOLhyphen"/>ſtation of <hi>Italie</hi> there were ſéene manye prodigious and woonderfull things, as armed men fighting in the ayre, bloud to flowe out of the earth and to breake out of the harde walles, with manye other wunders which threatened great calamities.</p>
+            <p>Before King <hi>Philip</hi> inuaded <hi>Greece</hi> the heauens appeared all bloudie.</p>
+            <p>And if we may credite probable Au<g ref="char:EOLhyphen"/>thors, when <hi>Marcus Acilius</hi> and <hi>C. Por<g ref="char:EOLhyphen"/>tius</hi> were Conſuls, the Elements ray<g ref="char:EOLhyphen"/>ned mylke, with bloud, and <hi>L. Volum<g ref="char:EOLhyphen"/>nius</hi> and <hi>Ser. Sulpitius</hi> being Conſuls, of <hi>Rome,</hi> it rayned fleſhe. Alſo in <hi>Luca<g ref="char:EOLhyphen"/>nia</hi> a Countrie belonging to <hi>Naples,</hi> be<g ref="char:EOLhyphen"/>twéene <hi>Fuel,</hi> and <hi>Calaber,</hi> before <hi>Luci<g ref="char:EOLhyphen"/>cius Craſſus</hi> was ſlaine of the <hi>Parthians,</hi> it rayned corne, <hi>L. Paulus</hi> and <hi>C. Mar<g ref="char:EOLhyphen"/>cellus</hi> beyng Conſuls, it rayned Wooll, and at that time alſo hard burned Tyle ſtones fell downe from heauen.</p>
+            <pb facs="tcp:181179:6"/>
+            <p>Before the Warres in <hi>Denmarke,</hi> were heard the noiſe and ſound of trum<g ref="char:EOLhyphen"/>pets from the ſkies.</p>
+            <p>The yéere wherein <hi>Veſpaſian</hi> de<g ref="char:EOLhyphen"/>ſtroyed <hi>Ieruſalem,</hi> a ſtarre appeared in heauen in the figure of a ſworde, han<g ref="char:EOLhyphen"/>ging ouer the Citie, Wagons appea<g ref="char:EOLhyphen"/>red wandring and running through the regions of heauen, and armed men were ſéene fighting in the Cloudes.</p>
+            <p>Pope <hi>Leo</hi> the ſeuenth, being By<g ref="char:EOLhyphen"/>ſhop of <hi>Rome,</hi> the Sunne for certayne dayes ſéemed al bloody, after which ther followed a greeuous peſtilence.</p>
+            <p>In the yeare of our Lorde 1348. <hi>Charles</hi> the fourth béeing Emperour, certaine Feaſtes, fell from heauen, the corruption and ſtinke whereof brought a ſorrowfull plague.</p>
+            <p>In the yeare of our Lorde 1356 <hi>Ca<g ref="char:EOLhyphen"/>lixtus</hi> the 3 béeing Biſhop of <hi>Rome,</hi> among the <hi>Sabynes,</hi> was brought foorth a calfe hauing but two féete, at which tyme in <hi>Rome</hi> ouer the gate of <hi>Venus</hi> It rayned bloode, and the ſame tyme did it raine fleſh in <hi>Lyguria.</hi>
+            </p>
+            <p>
+               <hi>Henrie</hi> the firſt béeing Emperour, in the fieldes of <hi>Hemilianus</hi> and <hi>Flaminius</hi>
+               <pb facs="tcp:181179:6"/> in <hi>Italie,</hi> It rained bloode in the Ides of Iune.</p>
+            <p>Innumerable examples, and moſt ſtraunge wonders could I recite which haue happened in times paſt among our elders, which would aſke a large ſcope, and open too wide afeelde for me to wan<g ref="char:EOLhyphen"/>der in, which albeit they are reported of credible Authors, yet for that they would ſéeme rather incredible then pro<g ref="char:EOLhyphen"/>bable to the common ſorte, I omitte them, and will drawe to thoſe which we all doe ſtedfaſtlie beléeue, and yet in their effectes are farre more ſtrange.</p>
+            <p>Doe we not reade how <hi>Arons</hi> rodde changed into a Serpent, <note place="margin">Exodus. 7.</note> which deuoured vp all the roddes of the charmers of <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and of the 10. wonderfull plagues that God ſent vpon <hi>Pharo</hi> &amp; his people.</p>
+            <p>The Children of <hi>Iſraell</hi> murmured againſt God, <note place="margin">Exodus. 16. Nombers. 11</note> and he fedde them with quailes from heauen at euen, and filled them with bread of <hi>Man</hi> in the morning, they grudged for water, and the Lorde burſt the rockes to giue them drinke, ſo he fedde their hunger with fleſh., and quenched their thyrſt with water, hée deuided the redde Sea ſo that they went
+<pb facs="tcp:181179:7"/> through as on drye lande, and cloſed the waters vpon their enimies like a wall.</p>
+            <p>
+               <hi>Corah, Dathan</hi> &amp; <hi>Abiram,</hi> murmured againſt <hi>Moſes,</hi> and the Lord ſent a won<g ref="char:EOLhyphen"/>derfull miracle vpon them, the faſt and ſolid earth opened her bowels, and ſwal<g ref="char:EOLhyphen"/>lowed them vp, with their families their goodes and all the men that were with <hi>Corah,</hi> ſo they went downe into the pit aliue, the earth couered them, and they periſhed from the congrega<g ref="char:EOLhyphen"/>tion.</p>
+            <p>In the dayes of <hi>Ioſuah</hi> 
+               <note place="margin">Ioſua. 4.</note> the Lorde, ſhewed wonders vnto <hi>Iſraell</hi> for he led them through the waters of <hi>Iordan</hi> as he dyd in the dayes of <hi>Moſes</hi> through the red &amp; ſalte Sea, ſo that when y<hi rend="sup">e</hi> feete of the Préeſtes that bare the Arke of the couenaunt ſtayed in the waters of <hi>Ior<g ref="char:EOLhyphen"/>dane,</hi> they weare cut of, and ſtoode ſtill on a heape, and as ſoone as the Préeſts féete weare ſet on the drie lande, the waters of <hi>Iordane</hi> returned vnto their place, and flowed ouer all the banckes thereof as they did before.</p>
+            <p>Sundry and manifolde are the exam<g ref="char:EOLhyphen"/>ples of wonders ſet down or our view in the holy ſcriptures, in the ſame booke <note place="margin">Ioſua. 10</note>
+               <pb facs="tcp:181179:7"/> of <hi>Ioſuah</hi> wée reade that when the fiue King, <hi>Adoni, Zedek, Hoham, Piram, Ia<g ref="char:EOLhyphen"/>pia</hi> and <hi>Debir,</hi> made warre vpon <hi>Gibe<g ref="char:EOLhyphen"/>on,</hi> the Lorde diſcomfited them and threwe downe great ſtones from hea<g ref="char:EOLhyphen"/>uen, vpon them, ſo that more dyed with the haile ſtones then dyed by the ſwords of the children of <hi>Iſraell,</hi> the Sunne ſtood ſtill in <hi>Gibeon,</hi> and the moone in the val<g ref="char:EOLunhyphen"/>ley of <hi>Aialon,</hi> tyll the children of <hi>Iſraell</hi> weare auenged of their enimies, a hole day ſtoode y<hi rend="sup">e</hi> ſonne ſtill in the middeſt of heauen, and haſted not to goe downe.</p>
+            <p>The lyke we reade of, in y<hi rend="sup">e</hi> Hiſtorie of <hi>Hezekiah,</hi> and in bréefe the whole booke of God is a ſpectacle of his wonders, a glaſſe of examples, and a mirror of hys miracles, ſet downe by his ſpirite for our inſtructiones, looke through the old Teſtament, and turne ouer the new, ſée if they bée not bothe farſed with won<g ref="char:EOLhyphen"/>ders, and ſtored with Miracles, where<g ref="char:EOLhyphen"/>fore are they written but for our lear<g ref="char:EOLhyphen"/>ninge? Wherefore weare they don but for our comfort, <hi>Quaecunque ſcripta ſunt, ad nostram doctrinam ſcripta ſunt,</hi> they weare not onely wrought for olde <hi>Iſ<g ref="char:EOLhyphen"/>raell,</hi> but alſo for vs the redéemed and
+<pb facs="tcp:181179:8"/> choſen people, to teache vs to beware by their daungers, who not regar<g ref="char:EOLhyphen"/>ding the workes of the Lord, did har<g ref="char:EOLhyphen"/>den their hearts againſt his iudgments: who contemninge the mercies of God in their deliuerau<g ref="char:cmbAbbrStroke">̄</g>ce, were payed home with the terror of his vengaunce, but are there not ſome <hi>Epicures</hi> amonge vs that liuinge at their luſte, thinke theſe thinges to bée ſhaddowes: are there not ſome <hi>Libertines</hi> amonge vs, that per<g ref="char:EOLhyphen"/>ſwade themſelues that theſe thinges be<g ref="char:EOLhyphen"/>ing paſt, pertaine not to them, and are there not ſome hard harted <hi>Nullafide<g ref="char:EOLhyphen"/>ans,</hi> that: ſcarſly beléeue theſe thinges, for that they ſaye they are, <hi>Obliterata vetuſt<g ref="char:EOLhyphen"/>tate:</hi> therefore that they might be with<g ref="char:EOLhyphen"/>out excuſe, beholde the arme of the Lord is not ſhortned, nor his power is not a<g ref="char:EOLhyphen"/>bated, but beinge. <hi>Semper et vbique idem,</hi> he leaues the wonders paſt, and prickes vs forward with thinges preſent, he leaueth forraine reportes, and ſhewes his workes at home, he comes now to our townes, and knockes at the gates of our Citties. O happy wée, if wée take him, O curſed wée, if wée forſake him:
+<pb facs="tcp:181179:8"/> the Lorde hath heard the cryes of hys miniſters, ſoundinge his Goſpell, long time amonge vs, but their voices are not harde, nor hys woorde winnes no re<g ref="char:EOLhyphen"/>garde: and therefore ſéeinge our ſtonye hartes wyll not waxe ſofte with the ſounde of his Goſpell, he prooues if they will melt with the fire of his mira<g ref="char:EOLhyphen"/>cles.</p>
+            <p>It is not longe ſythence God ſha<g ref="char:EOLhyphen"/>ked the earth in hys anger, when hee was mooued, the earth quaked, and the very foundacions thereof tottered, thinges ſenceleſſe can tremble at Gods iudgementes, but ſinful men feare not his furies, for a ſhort tyme hath worne out the remembraunce of ſo great a wonder: and as that, ſo all others doo laſte wyth vs but nine da<g ref="char:EOLhyphen"/>yes.</p>
+            <p>That Godlye exhortation of Maiſter <hi>Fielde,</hi> to the obſeruations of the <hi>Sabboth,</hi> is almoſte alreadye forgotten, and that heauie iudgement of <hi>Parris garden,</hi> béeginnes to flyppe out of remembraunce, for men beginne to flocke theither agayne,
+<pb facs="tcp:181179:9" rendition="simple:additions"/> accounting the ſpeciall warning of our GOD, to bée ſome ſodayne accident, that happened rather by chaunce then by choyſe, and becauſe they will be aſ<g ref="char:EOLhyphen"/>ſured to ſcape the daunger of falling, they make account to ſet faſt footing on the grounde as though the earth were not the Lordes and all that is therein, and as though the Lorde can not open the earth to ſwallowe the deſpyſers of his worde.</p>
+            <p>We haue yet freſhe in our remem<g ref="char:EOLhyphen"/>braunce, the gréeuous puniſhment of M. <hi>Bruſtar,</hi> but why do I call him maſter that being olde was a filthy ſlaue to his luſtes, &amp; the horrible death of his minio<g ref="char:cmbAbbrStroke">̄</g> louelie <hi>Lais,</hi> that loathing labour, liued by luring, but euen as <hi>Alcibiades</hi> the <hi>Athenian</hi> was ſlaine in the filthie acte of his pleaſure with his harlot <hi>Tyman<g ref="char:EOLhyphen"/>dra,</hi> and as <hi>Plutarche</hi> and <hi>Valerius</hi> ma<g ref="char:EOLhyphen"/>keth mention vncertaine how: euen ſo the Lorde ſtrooke this old Lecher with his fine <hi>Flora,</hi> that both of them were ſtubble for the fire, leauing the maner of the iudgement, to iudge by the matter that remained, and ſurely as wonder<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:181179:9"/> a iudgement as euer hath hapned and as harde to be ſcanned by the de<g ref="char:EOLhyphen"/>uiſe of mannes witte, that ſo ſmall a fyre as a lyttle panne of coales halfe waſted, ſhould conſume almoſt the one, and alſo burne the other to death, but ſure a right and iuſt iudgement that one fierie element beyng viſible, ſhoulde conſume another vnuiſible as the bur<g ref="char:EOLhyphen"/>ning fire to conſume y<hi rend="sup">e</hi> flaming luſte, for ſuch is the nature of luſt, &amp; rightly and fitlye may the heart of a luſtfull lecher bee compared to the ſtone <hi>Albeſtes,</hi> that beeyng once on fire, is neuer quenched, nor the luſtfull hearte of an olde crooked and conſumed adulterer tyll death ne<g ref="char:EOLhyphen"/>uer waſted, but they had their iudge<g ref="char:EOLhyphen"/>ment, for our enſample, and wee may by there perill make our preſent profite. GOD graunt we may, leaſt a ſpéedie threatened puniſhment come vppon vs.</p>
+            <p>This warning was not giuen when the Lorde by a wonderfull worke, dyd ſhewe his omnipotencie in other places for on Friday the firſt of this preſent moneth of Februarie, in the countie of Suffolke at <hi>Ipſwich, Storcknayland,
+<pb facs="tcp:181179:10"/> Hadley,</hi> and manye other places: the Lorde ſhewed the power of his hand in this ſtraunge and woonderfull effect. Men ryding by the way, as it is credi<g ref="char:EOLhyphen"/>bly reported, felte in a Snowe as it were in a ſmall drizling, a heauier fall of matter then in ſnowing is accuſto<g ref="char:EOLhyphen"/>med to be, and féeling the ſame to pat ſomewhat hardly vpon them, by better aduiſment perceyued it to bee a contra<g ref="char:EOLhyphen"/>rie matter, and therefore taking of it vp in their handes, they founde that it was Wheate, the ſtraungeneſſe hereof, did amaze many, who doubting it was ſome deceipt &amp; coloured deuiſe, did not greatly beléeue the ſame, till comming into the townes and villages, and bru<g ref="char:EOLhyphen"/>ting y<hi rend="sup">e</hi> report thereof, it cauſed y<hi rend="sup">e</hi> townſ<g ref="char:EOLhyphen"/>men and dwellers, to make ſearche in their Gardens, for as much as they knew that if any ſuch thing fell, it wold there be preſently found, neyther could it bee ſéene in the highe waies, foraſ<g ref="char:EOLhyphen"/>much as it rayned in ſo thyn &amp; ſmall an order, y<hi rend="sup">t</hi> the moiſture &amp; wet, with y<hi rend="sup">e</hi> ſlab<g ref="char:EOLhyphen"/>bineſſe of the way, did take away the knowledge thereof. But in Gardens
+<pb facs="tcp:181179:10"/> and Cloſes and by Yardes was founde greate aboundance thereof: there was (at the writyng hereof) in Toune, one Mai<g ref="char:EOLhyphen"/>ſter Willyam Geffreies Clothier, acre<g ref="char:EOLhyphen"/>dible man and dwellyng in Ipſwhich, who founde of the ſame in his Garden, and brought thereof to London: and liyng at the George in Lumbardſtreate, gaue therof to the Hoſt named Maiſter Ginue, and to other Gentlemen that deſired the ſame of hym, beſides diuers other honeſt and credible perſones dwellyng in that Countie, which lodged at the ſame place, and faithfully reported the ſame. Now, as touchyng the maner and likeneſſe there<g ref="char:EOLhyphen"/>of, it did rightly reſemble our common Wheate, ſauyng that it was of a ſofter ſubſtaunce, and looked ſomewhat gree<g ref="char:EOLhyphen"/>ner, otherwiſe like vnto our Wheate in all reſpectes: There are that did bite and eate thereof, who doe affirme that it hath a more mealier inwarde ſubſtaunce then our Wheate hath, and whiter alſo with in: and it is reported, that ſome haue ba<g ref="char:EOLhyphen"/>ked thereof, but whether that be ſo or no, it is not greatly material, onely the thing is ſtraunge, that any ſuche ſubſtaunce
+<pb facs="tcp:181179:11"/> ſhould raine from the Heauens: but leaſt ſome ſhould obiect that it might be ſcatte<g ref="char:EOLhyphen"/>red by the handes of ſome, in ſome cer<g ref="char:EOLhyphen"/>taine places. It is aſſuredly ſaied that it rained not onely in ſome one perticuler Toune, but ſixe or ſeuen miles compaſſe: naie ſome ſaie that it was founde alſo in Eſſex and other places: neither could it be ſcattered by men, either by negligence or pretended purpoſe, for as muche as it was founde in many mens Gardens and Backſides, whereas none could come to plaie any ſuche pageaunt. This gentle Reader haue I heard tolde of thoſe men them ſelues inhabityng that Countrey, whereof ſome ſubſtanciall and credible haue gathered and brought to this towne (for triall thereof) of the graine: Lett vs not therefore bee to curious in ſearchyng out the naturall cauſe hereof, for were <hi>Arictottle</hi> aliue with all the Philoſo<g ref="char:EOLhyphen"/>phers of the world, thei could not ſearche out the cauſe thereof, neither is there any cauſe to bee founde, but the infringible, will and power of our God, who is <hi>Cau<g ref="char:EOLhyphen"/>ſa cauſarum,</hi> and <hi>cauſa ſine qua non,</hi> he it is that is the efficient cauſe thereof, the
+<pb facs="tcp:181179:11"/> finall cauſe and ende wherefore he ſendeth the ſame is our repentaunce, that wee be<g ref="char:EOLhyphen"/>holdyng his Omnipotencie, might turne from ſinne ſpeedily, conuert to hym haſte<g ref="char:EOLhyphen"/>ly, laie holde of his mercie, and by our godly life ſet forth his glorie: for God, ſe<g ref="char:EOLhyphen"/>yng his worde daiely preached, his bene<g ref="char:EOLhyphen"/>fites and graces receiued: our peace, wealth, and quiett encreaſed, and yet our liues no whit amended, beginneth to ſhoote out the arrowes of his anger, out of the bowe of his iudgement and diſplea<g ref="char:EOLhyphen"/>ſure: and ſeyng we regarde not his word, he will teache vs by wonders: Sith wee deſpiſe the inuiſible grace of his Sacra<g ref="char:EOLhyphen"/>mentes, he wil ſende vs the viſible ſignes of his plagues and puniſhmentes: I can not, neither wee maie not enter into the counſelles of the Lorde, to ſaie that this or that will happen or ſucceede thereof: But ſurely <hi>Marcellus</hi> the Heathen man could ſaie: <hi>Prodigia eſſe deorum iras vel minas:</hi> that ſtraunge euents are either the anger or threatnynges of the Gods. And it hath beene approued in all ages, that after ſuche extraordinarie and por<g ref="char:EOLhyphen"/>tentuous tokens, haue followed ſtraunge
+<pb facs="tcp:181179:12"/> and terrible accidentes, as is plainly to be proued by many and ſundry Hiſtories: for thei haue been the forerunners of pla<g ref="char:EOLhyphen"/>gues, of Warres, of Famines, of the death of Princes, of the alteration of ſta<g ref="char:EOLhyphen"/>tes, and of innumerable miſcheefes, all whiche lett vs leaue to the Lorde at his pleaſure, and ſeeke to preuent them by repentaunce and prayer: Let vs leaue the ſecrete vnderſtandyng thereof to hym, who maketh no man of his counſell: and for ſo muche as we can not comprehende the ſame, within the compaſſe of our ca<g ref="char:EOLhyphen"/>pacities. As Sainct <hi>Augustine</hi> ſaieth: <note place="margin">Auguſtin.</note> 
+               <hi>Dicamus deum aliquid poſſe, quod nos fateamur inueſtigare non poſſe, in re<g ref="char:EOLhyphen"/>bus enim mirabilibus tota ratio faciendi, eſt potentia facientis:</hi> Let vs graunt that God can doe ſomethyng, whiche we con<g ref="char:EOLhyphen"/>feſſe we can not ſearche out: For in thyn<g ref="char:EOLhyphen"/>ges that are wonderfull, the whole ma<g ref="char:EOLhyphen"/>ner to doe the ſame, is the power of the doyng thereof. For as <hi>Gregory</hi> ſaieth: <note place="margin">Gregory in hom. 1.</note> 
+               <hi>Rationem de occulto dei conſilio quae<g ref="char:EOLhyphen"/>rere, nihil aliud eſt, quam contra eius co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>filium ſuperbire:</hi> To ſeeke a reaſone of the ſecrete counſell of God, is no other
+<pb facs="tcp:181179:12"/> thyng then to reſiſt his counſell: And as the ſame Father ſaith in the ſame booke: The miracles of God, thei maie be con<g ref="char:EOLhyphen"/>ſidered by ſtudie, but not ſearched by vn<g ref="char:EOLhyphen"/>derſtandyng: And therefore we muſt ſaie with the Prophett Dauid. <hi>This is the Lords doyng and it is wonderfull in our eyes.</hi> For whiche cauſe Chriſtian Bre<g ref="char:EOLhyphen"/>thren, ſeyng the Lorde hath by his greate wiſedome and power, declared himſelf in this wonderful ſorte vnto vs, and hath as it were, ſhaken the ſworde in his diſplea<g ref="char:EOLhyphen"/>ſure, to ſignifie vnto vs the waight of his anger. Seyng alſo wee knowe the cauſe thereof to bee our ſinnes, whiche becauſe thei are outragious, haue therefore incen<g ref="char:EOLhyphen"/>ſed the wrath of our GOD: and conſide<g ref="char:EOLhyphen"/>ring likewiſe, that wee knowe the mea<g ref="char:EOLhyphen"/>nes and waies to preuent the wrathe and indignation of God: namely by our re<g ref="char:EOLhyphen"/>pentaunce, by a ſorrowe vnfained, a faith aſſured, with a full purpoſe of a life amen<g ref="char:EOLhyphen"/>mended: Let vs not ſlacke to turne to the Lorde, while he now turneth vnto vs: let vs not be ſlow to ſeeke him while he may be founde, for if we knowe our Maiſters will and dooe it not, wee ſhall bee beaten with
+<pb facs="tcp:181179:13"/> many ſtripes. Let it not be ſaied of vs as it hath beene of the <hi>Athenians:</hi> among whom when a certaine olde man came in to their Theater, and none of the Citi<g ref="char:EOLhyphen"/>zens would riſe and giue hym honour, (albeit, the reuerence of age was confir<g ref="char:EOLhyphen"/>med among them by lawe) he came by chaunce by the Ambaſſadors of <hi>Lacede<g ref="char:EOLhyphen"/>mon,</hi> who alſo came thether to beholde, who perceiuyng the olde man becauſe of his graie heares, roſe vp and gaue hym rome: whiche when the <hi>Athanians</hi> be<g ref="char:EOLhyphen"/>helde, with a great ſhoote thei praiſed the deede, to who<g ref="char:cmbAbbrStroke">̄</g> one of the <hi>Lacedemonians</hi> ſaied: <hi>Athenienſes quid fit rectum ſciunt at illud facere ex toto negligunt:</hi> The <hi>A<g ref="char:EOLhyphen"/>thenians</hi> know what is meete to doe, but thei wholy neglect to doe the ſame. Euen ſo <hi>Mutato nomine de nobis fabula nara<g ref="char:EOLhyphen"/>tur:</hi> Chriſtians knowe what is meete to doe, but thei wholy neglecte to dooe the ſame. <hi>Albertus</hi> telleth of certaine Birdes that albeit, thei haue wynges yet thei can not flye; becauſe thei want eyes, and ther<g ref="char:EOLhyphen"/>fore thei rather creepe and hopp vpon the earth then flye any whit at all: and to ſuch maie wee bee compared: For albeit wee
+<pb facs="tcp:181179:13"/> haue the wynges of knowledge, yet wee lacke the eyes of faith: and therfore when wee ſhoulde flye with our myndes and thoughtes to heauen, for want of faithe, our hartes creepe vppon the yearth, and are ſettled on yearthly thynges: But as <hi>Hierome</hi> ſaieth: <note place="margin">Hie. ad deme<g ref="char:EOLhyphen"/>triadem.</note> 
+               <hi>Non ſufficit mandata dei memoriter ſcire, &amp; opere obliuiſci.</hi> It is not ſufficient to knowe perfectlie the Commaundementes of GOD, and by our woorkes to ſhowe wee haue for<g ref="char:EOLhyphen"/>gotten them: whiche whether we haue or not, is manifeſt by the wofull ſpectakle of our ſorrowfull daies: in whiche ſinne is ſo ſetled, and growne to ſuche ripeneſſe, that it waiteth but for the ſickell of the Lords iudgements. Looke on our pride? are not our men trickt like Monſters, and our women prickt like Players? Bee not the bellies of men like bolſters, and their but<g ref="char:EOLhyphen"/>tockes made like Butterflyes? Are not our women chaunged into the ſhape of men? how are their heare curld like Ruf<g ref="char:EOLhyphen"/>fianes, and their garmentes made like Maſkers? what iettyng and ioggyng, what ſhoueyng &amp; ſhouldryng, what nice<g ref="char:EOLhyphen"/>neſſe in treading, what ieſtures in going,
+<pb facs="tcp:181179:14"/> what coiyng in countenaunce, what trife<g ref="char:EOLhyphen"/>lyng in talking: and to be ſhorte, how are maners corrupted, and all good orders ſubuerted: Laie this to the touchſtone of Gods worde, and ſee how it agreeth: alas it makes the godly to grone, although the vngracious feele no greefe. Leaue this and looke vppon our couetouſneſſe, what pittie is there of the poore, and what re<g ref="char:EOLhyphen"/>leefe of many needie: how are rentes rai<g ref="char:EOLhyphen"/>ſed, Incombes leueyed, Leaſes corrup<g ref="char:EOLhyphen"/>ted, Bonds and their forfeites ſued, poore needie ſoules impriſoned, lawes wreſted, and truthe little regarded: maie it not be ſaid of our daies as <hi>Petronius</hi> ſaid of his.
+<q>
+                  <l>
+                     <hi>Quid faciunt leges vbi ſola pecunia regnat,</hi>
+                  </l>
+                  <l>
+                     <hi>Aut vbi paupertas viuere nulla poteſt</hi>
+                  </l>
+                  <l>
+                     <hi>Iam non iudicium eſt, nihil eſt niſi public amerces</hi>
+                  </l>
+                  <l>
+                     <hi>Nulla<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> iustitia eſt fraus vbi iura regit,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>enalis populus, venalis curia primum</hi>
+                  </l>
+                  <l>
+                     <hi>Ipſa<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> maiestas aere ſepulta iacet.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>What good do lawes where money rainges alone</l>
+                  <l>Or where the poore can not obtaine his right,</l>
+                  <l>Our iudgement now to common gaine is growne:</l>
+                  <l>No iuſtice is where fraude puts lawe to flight,</l>
+                  <l>Men ſet to ſale, the iudgement ſeate likewiſe,</l>
+                  <l>Honor her ſelf in money buried lyes.</l>
+               </q>
+            </p>
+            <pb facs="tcp:181179:14"/>
+            <p>But omittyng this with our Vſurie, Blaſphemie, Adulterie, Enuie, Subtel<g ref="char:EOLhyphen"/>tie, Oppreſſion, Extortion, and Briberie ſeyng we are all corrupte, euen from the ſole of the foote vnto the hedde. Seeyng there is nothyng whole in vs, but all wounds and ſwellyngs, and ſores full of corruption: Lette vs deſire the Lorde to wrappe vs vp, to binde vp our woundes, and to mollifie vs with the Oile of his grace, for wee are the vnfruitfull Vine<g ref="char:EOLhyphen"/>yard, euen this little realme of England whiche albeit our lande hath been plen<g ref="char:EOLhyphen"/>tifull, yet haue our liues been barren, and vnthanckfull, the Lorde hath hedged vs in with his graces, he hath gathered out the ſtones of Poperie and errors, he hath planted vs with the beſte plantes, name<g ref="char:EOLhyphen"/>ly of ſounde Religion, and the truthe of his Goſpell, he hath builte a Tower in the middeſt of vs whiche is his Churche. Wee haue a wine preſſe the houſe of pra<g ref="char:EOLhyphen"/>yer, the Lorde hath looked that we ſhould bryng forthe grapes of good life, but we haue brought forthe the wilde grapes of wickedneſſe, and now our owne conſci<g ref="char:EOLhyphen"/>ences can be witneſſe, that the lorde hath
+<pb facs="tcp:181179:15"/> doen ſo muche for vs, as more he could not doe for any Nation: he will therefore take awaie our hedge of defence, namely his mercies, and ſo ſhall wee bee troden doune of our enemies.</p>
+            <p>The Lorde hath looued vs with an euerlaſtyng loue, he hath choſen vs to hym ſelf in mercie, he hath fedde vs with the fatneſſe of the yearth, and giuen vnto vs the dewe of heauen: he hath caſte a bancke about vs for our defence, and clo<g ref="char:EOLhyphen"/>ſed vs in with a wall of ſtrength, he hath with peace ſent vs plentie, and with a<g ref="char:EOLhyphen"/>boundance giuen vs tranquilitie. Wee haue a gracious and mercifull Queene to guide vs, indued with wiſedome; lear<g ref="char:EOLhyphen"/>nyng and vertue, that laboureth daiely the increaſe of the Goſpell. God hath gi<g ref="char:EOLhyphen"/>uen wiſe and graue Counſailers, in the middeſt of trouble to determine our cau<g ref="char:EOLhyphen"/>ſes, who care and carke for the defence of our Countrie, and applie their ſtudie for our common weales commoditie, the Lorde hath endewed vs with learned Bi<g ref="char:EOLhyphen"/>ſhoppes, Paſtors and teachers, who ring daiely in our eares, the golden belles of the Lawe and Goſpell: who ſounde out
+<pb facs="tcp:181179:15"/> of a ſweete golden Trompet, the chere<g ref="char:EOLhyphen"/>full allarum againſt our enemies. Thei feede vs with Manna, beyng Aungelles foode, and giue vs cleare water out of the pure Fountaine: Thei haue ſtopped vp the muddie puddelles of Popery, and giuen vs to drincke of the cleare Siluer ſtreames of the Goſpell. Lett vs not bee vnthanckfull to GOD for them for thei ſtande in the gappe, to tourne awaie the wrathe of the Lorde, it is the praiers of theſe, that holdeth backe the angrie hand of the Lorde. <hi>Ouid</hi> ſaieth, that <hi>Arturus</hi> is a Starre, placed nere the Pole Ar<g ref="char:EOLhyphen"/>tick, whiche neuer falleth, but riſeth and compaſſeth continually about the Pole, if this ſtarre ſhould fall, the Pole would by and by faile, and ſo the whole frame of the worlde ſhould periſhe: Euen ſo theſe holie and godly men (as no doubte there are ſome, though the number bee few in this Citie) thei are thoſe that daie and night doe compaſſe the Pole of this worlde, who continually beate in the eares of the lorde with their praiers, and like this Starre, thei are continuall in riſyng, and neuer fall, were it not for
+<pb facs="tcp:181179:16"/> whom, the frame of this worlde had long ſince been diſſolued, but aſſuredly there being is not long, for theſe wonderfull tokens and prodigious ſignes, dooe ma<g ref="char:EOLhyphen"/>nifeſtly tell vs of the worldes conſuma<g ref="char:EOLhyphen"/>tion, let vs therefore watche, for the time is at hande. Lette vs bee wiſe Virgines with our Oile in our Lampes, that wee maie enter into the weddyng Chamber, whe<g ref="char:cmbAbbrStroke">̄</g> our ſpouſe Chriſte Ieſus ſhall come to Iudgement, let vs continue to thende that we maie eate of the hidden Manna, let vs ſtriue valiauntly that we maie ob<g ref="char:EOLhyphen"/>tain the Croune, and gaine the kyng<g ref="char:EOLhyphen"/>dome we haue long hopes for, and heare the ſweete and co<g ref="char:cmbAbbrStroke">̄</g>fortable ſaiyng: Come ye bleſſed of my father, inherite the king<g ref="char:EOLunhyphen"/>dome prepared for you, from the begin<g ref="char:EOLhyphen"/>nyng of the worlde, and that this maie ſpeedely come. Lett vs continually crie, Come lorde Ieſus, come quickly, bryng vs to the fruition of thy ioyes, and ſhor<g ref="char:EOLhyphen"/>ten theſe our miſerable daies, that wee maie all with one voyce glorifie thee in thy heauenly kyngdome, and ſing that ſwete ſong holie, holie, holie, Lorde God almightie: Graunt this O Father for
+<pb facs="tcp:181179:16" rendition="simple:additions"/> Chriſtes ſake, to whom with thee and the holie ſpirite be all honor and praiſe bothe now and for euer. Amen.</p>
+            <closer>
+               <signed>VVitneſſe hereunto, theſe men whoſe names doe followe.
+<list>
+                     <item>Maister VVillyam Geffreyes, dwellyng in Jpſwhich.</item>
+                     <item>John Bull, ſeruaunt to Justice Germaye.</item>
+                     <item>Richard Boothe of Jpſwhich, dwellyng with Olyuer Boothe.</item>
+                     <item>Richard Kaye: with diuers o<g ref="char:EOLhyphen"/>thers</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:181179:17" rendition="simple:additions"/>
+            <pb facs="tcp:181179:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
